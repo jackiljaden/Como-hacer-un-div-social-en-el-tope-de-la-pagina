@@ -1,0 +1,24 @@
+.bara-top ul a {
+text-decoration: none;
+color: black;
+}
+.bara-top ul .icon-facebook2{
+	color:white;
+	background: #3F51B5;
+    padding: 15px 5px 15px;
+}
+.bara-top ul .icon-google-plus2{
+	color: white;
+	background: #FF5722;
+	padding: 15px 5px 15px;
+}
+.bara-top ul .icon-twitter2{
+	color: white;
+	padding: 15px 5px 15px;
+	background: #2196F3;
+}
+.bara-top ul a:hover{
+	transition: 900ms;
+	background: black;
+	padding: 25px 5px 55px; 
+}
