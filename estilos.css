@@ -1,3 +1,10 @@
+.bara-top{
+	position: fixed;
+    background-color: transparent;
+    width: 100px;
+    left: 996px;
+    z-index: 1;
+}
 .bara-top ul a {
 text-decoration: none;
 color: black;
@@ -21,4 +28,19 @@ color: black;
 	transition: 900ms;
 	background: black;
 	padding: 25px 5px 55px; 
+}
+.numeros-google-plus {
+    color: #ffffff;
+    margin-left: 28px;
+    margin-top: -39px;
+}
+.numeros-twitter {
+    color: #ffffff;
+    margin-left: 50px;
+    margin-top: -38px;
+}
+.numeros-facebook {
+    color: #ffffff;
+    margin-left: -10px;
+    margin-top: 20px;
 }
